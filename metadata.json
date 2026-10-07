@@ -1,0 +1,7 @@
+{
+  "name": "AUD9ja Music",
+  "description": "Stream, discover, and upload premier Afrobeat, Amapiano, and global African music from Gboko to the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
